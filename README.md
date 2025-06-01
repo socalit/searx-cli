@@ -7,16 +7,6 @@ A fast, no-API terminal search tool for your own [SearXNG](https://searxng.org) 
 
 ---
 
-## Install it with:
-curl -s https://raw.githubusercontent.com/socalit/searx-cli/main/install-searx-cli.sh | sudo bash
-
-## Clone + run manually:
-git clone https://github.com/socalit/searx-cli
-cd searx-cli
-sudo ./install-searx-cli.sh
-
----
-
 ## Features
 
 -  Search directly from your terminal
@@ -28,6 +18,15 @@ sudo ./install-searx-cli.sh
 ---
 
 ## Quick Start
+---
+
+## Install it with:
+curl -s https://raw.githubusercontent.com/socalit/searx-cli/main/install-searx-cli.sh | sudo bash
+
+## Clone + run manually:
+git clone https://github.com/socalit/searx-cli
+cd searx-cli
+sudo ./install-searx-cli.sh
 
 1. Clone this repo:
 
@@ -36,6 +35,14 @@ sudo ./install-searx-cli.sh
    
 (Optional) Edit searx.py and change this line:
 DEFAULT_ENGINE = "https://your-searx-instance.net"
+
+Open the installed file:
+
+sudo nano /usr/local/bin/searx
+
+Find this line:
+DEFAULT_ENGINE = "https://your-searx-instance.net"
+Replace it with your server:
 
 Run a search:
 python3 searx.py "open source firewall"
