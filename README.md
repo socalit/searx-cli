@@ -7,6 +7,11 @@ A fast, no-API terminal search tool for your own [SearXNG](https://searxng.org) 
 
 ---
 
+## Install it with:
+curl -s https://raw.githubusercontent.com/socalit/searx-cli/main/install-searx-cli.sh | sudo bash
+
+---
+
 ## Features
 
 -  Search directly from your terminal
