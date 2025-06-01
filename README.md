@@ -59,3 +59,10 @@ sudo ./install-searx-cli.sh
 
 Then use it from anywhere:
 searx "opnsense vs pfsense"
+
+## ⚠️ If You See: `/usr/bin/env: ‘python3\r’: No such file or directory`
+
+You likely cloned the repo or copied files from Windows. Run this to fix line endings:
+
+sed -i 's/\r$//' searx.py
+chmod +x searx.py
