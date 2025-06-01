@@ -1,6 +1,6 @@
 # searx-cli
 
-![searx-cli demo](https://raw.githubusercontent.com/socalit/searx-cli/main/docs/demo.png)
+![searx-cli demo](https://raw.githubusercontent.com/socalit/searx-cli/main/docs/demo1.png)
 
 A fast, no-API terminal search tool for your own [SearXNG](https://searxng.org) instance. Works on Linux, macOS, and Windows.
 
