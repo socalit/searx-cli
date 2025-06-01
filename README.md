@@ -64,5 +64,6 @@ searx "opnsense vs pfsense"
 
 You likely cloned the repo or copied files from Windows. Run this to fix line endings:
 
+```bash
 sed -i 's/\r$//' searx.py
 chmod +x searx.py
