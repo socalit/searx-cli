@@ -1,5 +1,7 @@
 # searx-cli
 
+![searx-cli demo](https://raw.githubusercontent.com/socalit/searx-cli/main/docs/demo.png)
+
 A fast, no-API terminal search tool for your own [SearXNG](https://searxng.org) instance. Works on Linux, macOS, and Windows.
 
 **This script scrapes HTML from SearXNG** instead of using the JSON API (which is often rate-limited or disabled).  
