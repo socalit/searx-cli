@@ -64,7 +64,7 @@ searx "opnsense vs pfsense"
 
 ## ⚠️ If You See: `/usr/bin/env: ‘python3\r’: No such file or directory`
 
-You likely cloned the repo or copied files from Windows. Run this to fix line endings:
+Run this to fix line endings:
 
 ```bash
 sed -i 's/\r$//' searx.py
