@@ -77,7 +77,7 @@ sed -i 's/\r$//' searx.py
 chmod +x searx.py
 ```
 ### ⭐ **Star the GitHub repo**  
-### Share it with PC gaming communities  
+### Share it with communities  
 ### Open issues or request features  
 
 If this project saved you time or solved a problem, consider supporting development:
