@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.png" alt="Lenovo WiFi Whitelist Remover" width="100%">
+  <img src="docs/banner.png" alt="searx-cli" width="100%">
 </p>
 
 # searx-cli
