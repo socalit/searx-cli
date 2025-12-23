@@ -45,29 +45,34 @@ sudo ./install-searx-cli.sh
 DEFAULT_ENGINE = "https://your-searx-instance.net"
 
 Open the installed file:
-
+```bash
 sudo nano /usr/local/bin/searx
-
+```
 Find this line:
 DEFAULT_ENGINE = "https://your-searx-instance.net"
 Replace it with your server:
 
 Run a search:
+```
 python3 searx.py "open source firewall"
-
+```
 Or specify the engine dynamically:
+```
 python3 searx.py "hotel wifi audit" --engine https://your-searx-instance.net
-
+```
 ---
 
 ## Install System-Wide (Linux/macOS)
 
+```bash
 chmod +x install-searx-cli.sh
 sudo ./install-searx-cli.sh
-
+```
 Then use it from anywhere:
-searx "opnsense vs pfsense"
 
+```bash
+searx "opnsense vs pfsense"
+```
 ## ⚠️ If You See: `/usr/bin/env: ‘python3\r’: No such file or directory`
 
 Run this to fix line endings:
