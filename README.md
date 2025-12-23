@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="docs/banner.png" alt="Lenovo WiFi Whitelist Remover" width="100%">
+</p>
 # searx-cli
 
 ![searx-cli demo](https://raw.githubusercontent.com/socalit/searx-cli/main/docs/demo1.png)
