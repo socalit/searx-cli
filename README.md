@@ -5,7 +5,7 @@
 [![CLI](https://img.shields.io/badge/Interface-CLI-blue)](#)
 [![Search](https://img.shields.io/badge/Search-Meta_Search_Engine-success)](#)
 [![Privacy](https://img.shields.io/badge/Privacy-Focused-purple)](#)
-[![SearXNG](https://img.shields.io/badge/Backend-SearXNG-blue)](https://docs.searxng.org/)
+[![SearXNG](https://img.shields.io/badge/App-SearXNG-blue)](https://docs.searxng.org/)
 [![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
 
 
