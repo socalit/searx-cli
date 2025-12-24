@@ -1,4 +1,4 @@
-![searx-cli](assets/banner.png)
+![searx-cli](docs/banner.png)
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-%23FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/socal370xs)
 [![Linux](https://img.shields.io/badge/Linux-Kali%20%7C%20Debian-yellow?logo=linux)](https://www.kali.org/)
