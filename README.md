@@ -1,8 +1,12 @@
-<p align="center">
-  <img src="docs/banner.png" alt="searx-cli" width="100%">
-</p>
+![searx-cli](assets/banner.png)
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-%23FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/socal370xs)
+[![Linux](https://img.shields.io/badge/Linux-Kali%20%7C%20Debian-yellow?logo=linux)](https://www.kali.org/)
+[![CLI](https://img.shields.io/badge/Interface-CLI-blue)](#)
+[![Search](https://img.shields.io/badge/Search-Meta_Search_Engine-success)](#)
+[![Privacy](https://img.shields.io/badge/Privacy-Focused-purple)](#)
+[![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
+
 
 # searx-cli
 
